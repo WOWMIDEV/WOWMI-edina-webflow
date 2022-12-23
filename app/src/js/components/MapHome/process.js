@@ -96,9 +96,9 @@ const elMouseEvents = (el, name, config) => {
 
 export const process = () => {
   const config = {
-    color1: '#F8F8F8',
-    color2: '#232323',
-    color3: '#00AFD7',
+    color1: '#f1f1f1',
+    color2: '#000000',
+    color3: '#ce1126',
     baseUrl: '/state/',
     location: window.location,
     space: 20,
