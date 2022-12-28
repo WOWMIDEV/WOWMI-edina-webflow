@@ -7,7 +7,7 @@ make build
 # start - docker-compose up
 make up
 
-# down - docker-compose dowm
+# down - docker-compose down
 make down
 
 # bash - docker exec -it webapp /bin/zsh

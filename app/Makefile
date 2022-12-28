@@ -7,7 +7,7 @@ rm-rf-css:
 rm-rf-js:
 	rm -rf public/js
 
-server:
+start:
 	NODE_ENV=development npx webpack serve
 
 pretty:
