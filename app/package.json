@@ -7,7 +7,8 @@
     "server": "NODE_ENV=development webpack serve",
     "build-dev": "webpack --mode development",
     "build-prod": "webpack --mode production",
-    "watch": "NODE_ENV=development webpack"
+    "watch": "NODE_ENV=development webpack",
+    "prepare": "husky install"
   },
   "devDependencies": {
     "@babel/core": "^7.17.5",
